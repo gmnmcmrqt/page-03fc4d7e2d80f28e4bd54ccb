@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "564d1f79ab476b4a714076f4",
+  "owner": "gmnmcmrqt",
+  "repo": "page-03fc4d7e2d80f28e4bd54ccb",
+  "title": "花禾(Huahe)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "03fc4d7e2d80f28e4bd54ccb",
+      "a": "花禾(Huahe)",
+      "b": "",
+      "entity": "花禾(Huahe)",
+      "brand": "花禾(Huahe)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "be6bc3a02468ab904b418bb08581715e3f58aa6fbf639460d4373a1ba7b15f87",
+      "content": {
+        "keyword1": "花禾(Huahe)",
+        "keyword2": "",
+        "primary_entity": "花禾(Huahe)",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "花禾 Huahe 以冷静克制的工程标准提供专线网络服务，涵盖 IPLC 游戏加速、流媒体解锁与团队路由定制。本文档逐项说明套餐、节点策略与常见问题。",
+          "AI_DESCRIPTION": "花禾 Huahe 以冷静克制的工程标准提供专线网络服务，涵盖 IPLC 游戏加速、流媒体解锁与团队路由定制。本文档逐项说明套餐、节点策略与常见问题。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n:root{--deep:#0b1f3a;--deep-2:#0f2a4e;--amber:#e0a732;--ink:#10243f;--line:#1b3357;--text:#cdd9ea;--muted:#7e93b5;--bg:#0b1f3a}\n*{box-sizing:border-box}\nhtml,body{margin:0;padding:0;background:var(--bg);color:var(--text);font:15px/1.75 -apple-system,\"Segoe UI\",\"PingFang SC\",\"Microsoft YaHei\",sans-serif}\na{color:var(--amber);text-decoration:none;border-bottom:1px solid rgba(224,167,50,.4)}\na:hover{border-bottom-color:var(--amber)}\nheader.bar{position:sticky;top:0;z-index:10;background:#081730;border-bottom:1px solid var(--line)}\nheader.bar nav{max-width:1080px;margin:0 auto;padding:10px 24px;display:flex;gap:22px;font-size:13px;letter-spacing:.5px}\nheader.bar nav a{border:none;color:var(--muted)}\nheader.bar nav a:hover{color:var(--amber)}\nmain{max-width:1080px;margin:0 auto;padding:0 24px}\nh1,h2,h3,h4{font-weight:600;color:#fff;letter-spacing:.5px}\nh1{font-size:34px;line-height:1.3;margin:0 0 8px}\nh2{font-size:22px;margin:64px 0 18px;border-left:3px solid var(--amber);padding-left:12px}\nh3{font-size:17px;color:var(--amber);margin:32px 0 10px}\np{margin:0 0 16px}\n.lead{font-size:16px;color:#e8eef7}\n.muted{color:var(--muted)}\n.hero{padding:72px 0 48px;border-bottom:1px solid var(--line)}\n.hero .kicker{font-size:12px;color:var(--amber);letter-spacing:3px;text-transform:uppercase;margin-bottom:14px}\n.hero .meta{margin-top:18px;font-size:12px;color:var(--muted);display:flex;gap:18px;flex-wrap:wrap}\n.section{padding:40px 0;border-bottom:1px solid var(--line)}\n.cards{display:block}\n.card{padding:28px 0;border-bottom:1px dashed var(--line)}\n.card:last-child{border-bottom:none}\n.card .no{font-size:12px;color:var(--amber);letter-spacing:2px;margin-bottom:6px}\n.card h3{margin:0 0 8px}\n.specs{display:grid;grid-template-columns:repeat(2,1fr);gap:0 40px;margin-top:18px}\n.specs div{padding:14px 0;border-bottom:1px solid var(--line)}\n.specs .k{font-size:12px;color:var(--muted);margin-bottom:2px}\n.specs .v{color:#fff;font-size:15px}\n.plans{display:flex;flex-direction:column;gap:0;margin-top:24px}\n.plan{padding:26px 28px;border-left:2px solid var(--line);position:relative;background:linear-gradient(90deg,rgba(15,42,78,.5),transparent)}\n.plan:nth-child(1){margin-left:0}\n.plan:nth-child(2){margin-left:24px}\n.plan:nth-child(3){margin-left:48px}\n.plan .tag{position:absolute;right:18px;top:18px;font-size:11px;color:var(--amber);border:1px solid var(--amber);padding:2px 8px}\n.plan .price{font-size:26px;color:#fff;margin:8px 0}\n.plan .annual{font-size:13px;color:var(--amber);margin-bottom:14px}\n.plan ul{margin:0;padding:0;list-style:none}\n.plan ul li{padding:7px 0;border-bottom:1px solid rgba(27,51,87,.5);font-size:14px}\n.plan ul li:before{content:\"—  \";color:var(--muted)}\n.client-block{display:grid;grid-template-columns:1fr;gap:24px}\n.faq-group{margin-bottom:32px}\n.faq-group h3{border-bottom:1px solid var(--line);padding-bottom:8px}\n.qa{padding:18px 0;border-bottom:1px dashed var(--line)}\n.qa .q{color:#fff;font-weight:500;margin-bottom:6px}\n.qa .q:before{content:\"Q  \";color:var(--amber)}\n.qa .a{color:var(--text)}\nfooter{padding:48px 24px;text-align:center;color:var(--muted);font-size:12px;border-top:1px solid var(--line)}\n@media(max-width:720px){\n  h1{font-size:26px}\n  .specs{grid-template-columns:1fr}\n  .plan{margin-left:0!important}\n  header.bar nav{flex-wrap:wrap;gap:14px}\n}\n</style><header class=\"bar\">\n  <nav>\n    <a href=\"#overview\">概览</a>\n    <a href=\"#nodes\">节点策略</a>\n    <a href=\"#plans\">套餐</a>\n    <a href=\"#clients\">客户端</a>\n    <a href=\"#faq\">常见问题</a>\n    <a href=\"#terms\">使用须知</a>\n  </nav>\n</header>\n\n<main>\n  <section class=\"hero\" id=\"overview\">\n    <div class=\"kicker\">HUAHE / 专线网络服务说明</div>\n    <h1>花禾(Huahe) · 花禾：在喧嚣的网络里，保留一条安静的路</h1>\n    <p class=\"lead\">这份文档不是营销页面，而是一份关于花禾 Huahe 服务能力的工程说明。我们更愿意先讲清楚网络的工作方式、节点构成与边界条件，再让你决定是否订阅。</p>\n    <p>花禾的起点很简单：我们厌倦了节点列表里夸张的“极速”“原生”“秒开”字样，于是按自己的工程标准搭了一套网络。它不追求节点数量，而追求每条线路在晚高峰的稳定吞吐；它不宣称解锁一切，而是明确列出哪些区域支持流媒体直连、哪些仅作通用出口。</p>\n    <p>本页面分为网络概览、节点策略、套餐阶梯、客户端说明与常见问题五部分。所有价格、流量与设备数均以实际订阅页为准，本文档仅作静态说明，不构成交易要约。</p>\n    <div class=\"meta\">\n      <span>文档版本 · HHPUB-2024-03</span>\n      <span>维护方 · 花禾网络工程组</span>\n      <span>阅读时长 · 约 6 分钟</span>\n    </div>\n  </section>\n\n  <section class=\"section\" id=\"nodes\">\n    <h2>网络与节点策略</h2>\n    <p>花禾的出口网络由三类线路构成：普通中转、IPLC 专线直连、以及面向团队客户的定制路由。我们不公开具体机房与 ASN 信息，但在工单中可向已订阅用户提供线路来源说明。</p>\n\n    <div class=\"cards\">\n      <article class=\"card\">\n        <div class=\"no\">01 / 出口构成</div>\n        <h3>三类线路，按用途分层</h3>\n        <p>普通线路池覆盖常见区域，适合网页浏览与轻量下载；IPLC 专线面向游戏与低延迟场景，入口与出口之间不经公网中转；团队版可指定区域与企业级路由策略。三类线路不混用，避免相互挤占。</p>\n        <div class=\"specs\">\n          <div><div class=\"k\">普通线路池</div><div class=\"v\">多区域共享出口，按权重负载</div></div>\n          <div><div class=\"k\">IPLC 专线</div><div class=\"v\">固定入口，端到端不落地公网</div></div>\n          <div><div class=\"k\">团队定制路由</div><div class=\"v\">按客户需求指定区域与 QoS</div></div>\n          <div><div class=\"k\">流媒体策略</div><div class=\"v\">按区域区分原生解锁与代理转投</div></div>\n        </div>\n      </article>\n\n      <article class=\"card\">\n        <div class=\"no\">02 / 流媒体</div>\n        <h3>解锁声明：不夸大，按区域标注</h3>\n        <p>基础版提供普通线路池下的流媒体解锁能力，覆盖常见区域，但不保证所有自制剧与体育直播可用。旗舰版及以上接入原生出口，对主要流媒体平台提供更完整的解锁支持。任何“100% 解锁”的承诺在工程上都不成立，我们拒绝写入。</p>\n        <div class=\"specs\">\n          <div><div class=\"k\">基础版</div><div class=\"v\">基础流媒体解锁</div></div>\n          <div><div class=\"k\">旗舰版</div><div class=\"v\">全节点原生流媒体解锁</div></div>\n          <div><div class=\"k\">团队版</div><div class=\"v\">按需配置，含高带宽节点</div></div>\n          <div><div class=\"k\">不保证项</div><div class=\"v\">特定体育直播与地区限定自制剧</div></div>\n        </div>\n      </article>\n\n      <article class=\"card\">\n        <div class=\"no\">03 / 游戏加速</div>\n        <h3>IPLC 直连，面向延迟敏感场景</h3>\n        <p>旗舰版及以上包含 IPLC 专线游戏加速优化。该线路入口固定，端到端不落地公网，适合对延迟与抖动敏感的对战类游戏。我们不承诺“零延迟”，但在工单日志中可提供近 30 天的延迟分布统计供订阅用户查阅。</p>\n      </article>\n    </div>\n  </section>\n\n  <section class=\"section\" id=\"plans\">\n    <h2>套餐阶梯</h2>\n    <p>花禾的套餐按流量、设备数与线路等级递进排列。三档之间不是简单的“更多更好”，而是面向不同使用强度：基础版适合个人日常，旗舰版面向重度流媒体与游戏用户，团队版供多人共用与企业定制。</p>\n\n    <div class=\"plans\">\n      <article class=\"plan\">\n        <div class=\"no\">基础版</div>\n        <div class=\"price\">¥15/月</div>\n        <div class=\"annual\">按年付仅需 ¥150/年</div>\n        <ul>\n          <li>每月 100GB 极速流量</li>\n          <li>支持 3 台设备同时在线</li>\n          <li>解锁基础流媒体</li>\n          <li>普通线路节点池</li>\n        </ul>\n      </article>\n\n      <article class=\"plan\">\n        <span class=\"tag\">推荐</span>\n        <div class=\"no\">旗舰版</div>\n        <div class=\"price\">¥35/月</div>\n        <div class=\"annual\">按年付仅需 ¥350/年</div>\n        <ul>\n          <li>每月 300GB 极速流量</li>\n          <li>支持 5 台设备同时在线</li>\n          <li>全节点原生流媒体解锁</li>\n          <li>IPLC 专线游戏加速优化</li>\n          <li>7x24 优先工单支持</li>\n        </ul>\n      </article>\n\n      <article class=\"plan\">\n        <div class=\"no\">团队版</div>\n        <div class=\"price\">¥85/月</div>\n        <div class=\"annual\">按年付仅需 ¥850/年</div>\n        <ul>\n          <li>每月 1000GB 极速流量</li>\n          <li>支持 20 台设备同时在线</li>\n          <li>VIP 专属高带宽节点</li>\n          <li>支持企业定制路由</li>\n          <li>专属客户经理服务</li>\n        </ul>\n      </article>\n    </div>\n    <p class=\"muted\">说明：价格与权益以订阅页实时展示为准。本静态文档不生成订单，不含任何购买或下载链接。如需订阅，请通过花禾官方渠道访问。</p>\n  </section>\n\n  <section class=\"section\" id=\"clients\">\n    <h2>客户端与使用</h2>\n    <p>花禾不绑定特定客户端，订阅链接兼容主流通用协议客户端。我们不提供自有 App，避免在应用商店合规审查中带来不必要的风险。用户可使用自己信任的客户端导入订阅。</p>\n\n    <div class=\"client-block\">\n      <article class=\"card\">\n        <div class=\"no\">A / 协议</div>\n        <h3>通用协议，不锁定客户端</h3>\n        <p>花禾订阅链接采用通用协议格式，可在主流客户端中导入使用。我们不强制要求安装特定软件，也不在客户端中嵌入广告或统计代码。客户端的选择权完全归属用户。</p>\n        <div class=\"specs\">\n          <div><div class=\"k\">订阅格式</div><div class=\"v\">通用协议订阅链接</div></div>\n          <div><div class=\"k\">自有 App</div><div class=\"v\">不提供</div></div>\n          <div><div class=\"k\">下载地址</div><div class=\"v\">不提供，由用户自备客户端</div></div>\n          <div><div class=\"k\">平台兼容</div><div class=\"v\">支持主流桌面与移动客户端</div></div>\n        </div>\n      </article>\n\n      <article class=\"card\">\n        <div class=\"no\">B / 接入步骤</div>\n        <h3>从订阅到连接的四步</h3>\n        <p>花禾不提供向导式安装包，接入流程偏向工程化，但对有基础的用户而言足够直接：</p>\n        <div class=\"specs\">\n          <div><div class=\"k\">第一步</div><div class=\"v\">在花禾官方渠道获取订阅链接</div></div>\n          <div><div class=\"k\">第二步</div><div class=\"v\">在自有客户端中粘贴订阅地址</div></div>\n          <div><div class=\"k\">第三步</div><div class=\"v\">更新节点列表，按线路类型选择</div></div>\n          <div><div class=\"k\">第四步</div><div class=\"v\">连接，必要时在工单中反馈延迟</div></div>\n        </div>\n      </article>\n    </div>\n  </section>\n\n  <section class=\"section\" id=\"faq\">\n    <h2>常见问题</h2>\n    <p>以下问题按主题分组。答案以工程与运维视角给出，不使用营销口吻。若你的问题未在此列出，请通过工单提交，我们会在文档迭代时补充。</p>\n\n    <div class=\"faq-group\">\n      <h3>网络与节点</h3>\n      <article class=\"qa\">\n        <div class=\"q\">花禾的节点分布在哪些地区？</div>\n        <div class=\"a\">我们不公开完整节点地区列表，以避免节点被针对性探测。已订阅用户可在客户端中查看实际可用区域。普通线路池覆盖常见区域，旗舰版及以上包含 IPLC 专线。</div>\n      </article>\n      <article class=\"qa\">\n        <div class=\"q\">“极速流量”是什么含义？</div>\n        <div class=\"a\">指在套餐流量额度内，线路不额外限速。流量耗尽后会降速或暂停，具体策略以订阅页为准。我们不在文档中承诺具体带宽数值，因为实际吞吐受运营商与时段影响。</div>\n      </article>\n      <article class=\"qa\">\n        <div class=\"q\">IPLC 专线和普通线路有何区别？</div>\n        <div class=\"a\">IPLC 专线入口与出口之间通过专线直连，不经公网中转，延迟与抖动更低，适合游戏与实时通信。普通线路经中转优化，覆盖更广，适合日常浏览与下载。</div>\n      </article>\n    </div>\n\n    <div class=\"faq-group\">\n      <h3>套餐与计费</h3>\n      <article class=\"qa\">\n        <div class=\"q\">套餐之间能否中途升级？</div>\n        <div class=\"a\">支持按剩余时长补差价升级。具体计算以订阅页为准，本静态文档不提供升级入口或价格计算器。</div>\n      </article>\n      <article class=\"qa\">\n        <div class=\"q\">月付与年付的权益是否一致？</div>\n        <div class=\"a\">同一档套餐无论月付或年付，线路等级、设备数与流量额度一致。年付仅为价格优惠，不改变服务内容。</div>\n      </article>\n      <article class=\"qa\">\n        <div class=\"q\">流量是否会跨月结转？</div>\n        <div class=\"a\">不结转。每月流量在周期结束时清零，下一周期重新计算。团队版如需更高额度，可联系客户经理评估定制方案。</div>\n      </article>\n    </div>\n\n    <div class=\"faq-group\">\n      <h3>使用与兼容</h3>\n      <article class=\"qa\">\n        <div class=\"q\">是否支持路由器刷机固件接入？</div>\n        <div class=\"a\">订阅链接兼容主流通用协议，可在支持该协议的路由器固件中导入。我们不提供固件，也不提供刷机教程，相关风险由用户自行承担。</div>\n      </article>\n      <article class=\"qa\">\n        <div class=\"q\">团队版的企业定制路由如何申请？</div>\n        <div class=\"a\">通过专属客户经理提交需求，工程组评估区域与带宽可行性后给出方案。定制路由不承诺无限带宽，按合同约定执行。</div>\n      </article>\n      <article class=\"qa\">\n        <div class=\"q\">设备数超出限制会怎样？</div>\n        <div class=\"a\">超出同时在线设备数时，新连接会被拒绝，已连接设备不受影响。不会自动断开既有会话，以避免打断正在进行的任务。</div>\n      </article>\n    </div>\n  </section>\n\n  <section class=\"section\" id=\"terms\">\n    <h2>使用须知</h2>\n    <p>花禾提供的是网络传输服务，不对通过该网络访问的具体内容负责。用户应遵守所在地区的法律法规。本静态文档不包含交易入口、下载链接或外部脚本，所有操作请通过花禾官方渠道进行。</p>\n    <p>文档中出现的“流媒体解锁”“游戏加速”等表述为线路能力的工程描述，不构成对特定平台可用性的绝对承诺。网络环境变化可能导致解锁能力波动，我们会在工单中向订阅用户提供当前状态。</p>\n    <p class=\"muted\">最后更新：见文档版本号。本页面为一次性生成的静态说明，不实时反映后端状态。</p>\n  </section>\n</main>\n\n<footer>\n  花禾 Huahe · 专线网络服务说明文档<br>\n  本页面为静态说明，不含交易与下载链接，请通过官方渠道操作\n</footer>",
+          "hash": "1e0132cc5f640fb139909cc4c679efadf15a50b80d98db1ebea8d3d0c0f633bb",
+          "seo": {
+            "title": "花禾 Huahe — 静水流深，专线网络服务说明",
+            "keywords": "花禾,Huahe,专线,网络加速,IPLC,流媒体解锁,VPN,机场",
+            "description": "花禾 Huahe 以冷静克制的工程标准提供专线网络服务，涵盖 IPLC 游戏加速、流媒体解锁与团队路由定制。本文档逐项说明套餐、节点策略与常见问题。"
+          },
+          "provider": "grok",
+          "model": "glm-5.3",
+          "design": {
+            "no": "5772",
+            "hero": "5 长文叙事开篇，像专栏文章",
+            "palette": "3 深海蓝配琥珀",
+            "nav": "1 顶部细横条",
+            "card": "1 无边框仅靠留白分隔",
+            "plans_view": "3 阶梯式递进排列",
+            "faq_view": "3 按主题分组",
+            "tone": "1 冷静克制的说明书口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "m3n5g.cn",
+    "host": "p-13a64444d0.m3n5g.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "8e5b5b945f871f1410e362f85dcfd36cfc74025b441579eb8e885ed38b757112",
+    "sitemap.xml": "07430fbf581d9b1ee85b0b0c10ad0c3bfee49b64e05b51375dcc922eb3a77df3",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "a5b58adae52f17389f8fab5a50ffaa0ead94c26e13c9c5f59f96c98095f4e58e",
+    "robots.txt": "88c6a3f321ffd444f2d413ad5feb0042de9ffaa6181b91b9206015c8b7daf6bd",
+    "f46f3ae365ea9639076b963dceedb154.txt": "d96247c43eeee5a89c6acf48d0dfac6cfb909e2188c6ffb1a048be8abdc62add"
+  },
+  "revision": "a22a5b2208b71b7487c2c5927eaa62d047b3cf45cd89039d422569668cd98c7c"
+}
